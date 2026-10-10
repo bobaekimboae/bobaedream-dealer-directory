@@ -46,11 +46,15 @@ export function DealerStudio() {
   const [videoExtension,setVideoExtension] = useState("webm");
   const [error,setError] = useState("");
   const inputRef = useRef<HTMLInputElement>(null);
+  const mediaRef = useRef<MediaItem[]>([]);
+  const videoUrlRef = useRef("");
 
+  useEffect(() => { mediaRef.current = media; }, [media]);
+  useEffect(() => { videoUrlRef.current = videoUrl; }, [videoUrl]);
   useEffect(() => () => {
-    media.filter((item) => item.owned).forEach((item) => URL.revokeObjectURL(item.url));
-    if (videoUrl) URL.revokeObjectURL(videoUrl);
-  }, [media,videoUrl]);
+    mediaRef.current.filter((item) => item.owned).forEach((item) => URL.revokeObjectURL(item.url));
+    if (videoUrlRef.current) URL.revokeObjectURL(videoUrlRef.current);
+  }, []);
 
   useEffect(() => {
     if (media.length < 2 || step !== "design") return;
@@ -124,13 +128,15 @@ export function DealerStudio() {
     setProgress(4);
     setStatus("사진을 고화질로 준비하고 있어요");
     setError("");
-    if (videoUrl) URL.revokeObjectURL(videoUrl);
+    if (videoUrlRef.current) URL.revokeObjectURL(videoUrlRef.current);
+    videoUrlRef.current = "";
     setVideoUrl("");
     try {
-      const result = await renderVideo({ media,listing,accent,template,onProgress:(value,label) => {
+      const result = await renderVideo({ media,listing,accent,template,duration,onProgress:(value,label) => {
         setProgress(value);
         setStatus(label);
       }});
+      videoUrlRef.current = result.url;
       setVideoUrl(result.url);
       setVideoExtension(result.extension);
       setProgress(100);
@@ -227,7 +233,7 @@ export function DealerStudio() {
           <div className="studio-card control-card"><div className="card-heading compact"><div><h2>영상 길이</h2><p>SNS 채널에 맞춰 템포를 선택하세요.</p></div></div>
             <div className="duration-options">{[12,15,20].map((value) => <button type="button" className={duration===value?"selected":""} onClick={() => setDuration(value)} key={value}><b>{value}초</b><span>{value===12?"빠르게":value===15?"추천":"여유롭게"}</span></button>)}</div>
           </div>
-          <div className="design-actions"><button type="button" className="secondary-action" onClick={() => setStep("source")}>이전</button><button type="button" className="primary-action" onClick={generateVideo}>영상 만들기 <span>약 10초</span></button></div>
+          <div className="design-actions"><button type="button" className="secondary-action" onClick={() => setStep("source")}>이전</button><button type="button" className="primary-action" onClick={generateVideo}>영상 만들기 <span>약 {duration}초</span></button></div>
         </section>
       </div> : null}
 
@@ -249,11 +255,8 @@ function StudioField({label,value,onChange,wide=false}:{label:string;value:strin
   return <label className={wide?"studio-field wide":"studio-field"}><span>{label}</span><input value={value} onChange={(event) => onChange(event.target.value)}/></label>;
 }
 
-async function renderVideo({media,listing,accent,template,onProgress}:{media:MediaItem[];listing:typeof defaultListing;accent:string;template:TemplateId;onProgress:(value:number,label:string)=>void}) {
+async function renderVideo({media,listing,accent,template,duration,onProgress}:{media:MediaItem[];listing:typeof defaultListing;accent:string;template:TemplateId;duration:number;onProgress:(value:number,label:string)=>void}) {
   if (!window.MediaRecorder) throw new Error("이 브라우저는 영상 생성을 지원하지 않습니다. 최신 Chrome 또는 Edge를 이용해 주세요.");
-  const candidates = ["video/mp4;codecs=avc1.42E01E","video/mp4","video/webm;codecs=vp9","video/webm"];
-  const mimeType = candidates.find((type) => MediaRecorder.isTypeSupported(type)) || "";
-  if (!mimeType) throw new Error("지원되는 영상 인코더를 찾지 못했습니다.");
   const images = await Promise.all(media.slice(0,8).map(loadImage));
   const canvas = document.createElement("canvas");
   canvas.width = 720;
@@ -261,16 +264,34 @@ async function renderVideo({media,listing,accent,template,onProgress}:{media:Med
   const context = canvas.getContext("2d");
   if (!context) throw new Error("영상 캔버스를 준비하지 못했습니다.");
   const stream = canvas.captureStream(30);
-  const recorder = new MediaRecorder(stream,{mimeType,videoBitsPerSecond:5_000_000});
+  if (!stream.getVideoTracks().length) throw new Error("영상 트랙을 만들지 못했습니다. Chrome 또는 Edge에서 다시 시도해 주세요.");
+  const candidates = ["video/mp4;codecs=avc1.42E01E","video/webm;codecs=vp9","video/webm;codecs=vp8","video/mp4","video/webm"];
+  let recorder:MediaRecorder | null = null;
+  let mimeType = "";
+  for (const candidate of candidates) {
+    if (!MediaRecorder.isTypeSupported(candidate)) continue;
+    try {
+      recorder = new MediaRecorder(stream,{mimeType:candidate,videoBitsPerSecond:5_000_000});
+      mimeType = candidate;
+      break;
+    } catch {
+      // Some browsers report a codec as supported but still reject it at construction time.
+    }
+  }
+  if (!recorder || !mimeType) {
+    stream.getTracks().forEach((track) => track.stop());
+    throw new Error("지원되는 영상 인코더를 찾지 못했습니다. Chrome 또는 Edge에서 다시 시도해 주세요.");
+  }
   const chunks:Blob[] = [];
   recorder.ondataavailable = (event) => { if(event.data.size) chunks.push(event.data); };
   const complete = new Promise<Blob>((resolve,reject) => {
-    recorder.onstop = () => resolve(new Blob(chunks,{type:mimeType}));
-    recorder.onerror = () => reject(new Error("영상 인코딩에 실패했습니다."));
+    recorder!.onstop = () => resolve(new Blob(chunks,{type:mimeType}));
+    recorder!.onerror = () => reject(new Error("영상 인코딩에 실패했습니다."));
   });
-  recorder.start(250);
-  const frameDuration = 900;
-  const total = images.length*frameDuration;
+  const total = Math.max(6,duration)*1000;
+  const frameDuration = total/images.length;
+  drawVideoFrame(context,canvas,images[0],listing,accent,template,0,images.length,0);
+  recorder.start(500);
   const started = performance.now();
   onProgress(12,"장면을 구성하고 있어요");
   await new Promise<void>((resolve) => {
@@ -285,8 +306,16 @@ async function renderVideo({media,listing,accent,template,onProgress}:{media:Med
     };
     requestAnimationFrame(draw);
   });
-  recorder.stop();
-  const blob = await complete;
+  onProgress(94,"영상 파일을 마무리하고 있어요");
+  if (recorder.state === "recording") recorder.requestData();
+  await new Promise((resolve) => window.setTimeout(resolve,180));
+  if (recorder.state !== "inactive") recorder.stop();
+  const blob = await Promise.race([
+    complete,
+    new Promise<never>((_,reject) => window.setTimeout(() => reject(new Error("영상 파일 마무리가 지연되고 있습니다. 다시 시도해 주세요.")),8000)),
+  ]);
+  stream.getTracks().forEach((track) => track.stop());
+  if (blob.size < 1024) throw new Error("영상 파일이 완성되지 않았습니다. 다시 시도해 주세요.");
   const extension = mimeType.startsWith("video/mp4") ? "mp4" : "webm";
   return { url:URL.createObjectURL(blob), extension };
 }
