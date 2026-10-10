@@ -1,0 +1,3861 @@
+{
+  "schemaVersion": 1,
+  "collectedAt": "2026-10-05T11:59:08+09:00",
+  "sources": [
+    {
+      "name": "강서오토랜드 회원사 소개",
+      "url": "https://cha894.com/coop/list.html",
+      "kind": "official_association"
+    },
+    {
+      "name": "강서오토랜드 소속딜러",
+      "urlTemplate": "https://cha894.com/coop/list_dealer.html?sangsaKey={companyId}",
+      "kind": "official_association"
+    }
+  ],
+  "complexes": [
+    {
+      "id": "seoul-gangseo-autoland",
+      "regionId": "seoul",
+      "region": "서울",
+      "district": "강서구",
+      "name": "강서오토랜드",
+      "officialName": "서울강서자동차매매조합",
+      "address": "서울특별시 강서구 양천로 434 (등촌동 15-1)",
+      "phone": "02-2659-7676",
+      "fax": "02-2659-2760",
+      "thumbnailUrl": null,
+      "companyCount": 47,
+      "dealerCount": 357,
+      "sourceUrl": "https://cha894.com/coop/list.html"
+    }
+  ],
+  "companies": [
+    {
+      "id": "220145",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "SJ모터스",
+      "representative": "김태윤",
+      "phone": "02-2038-0012",
+      "fax": "02-2038-0019",
+      "address": "서울특별시 강서구 양천로 434 (등촌동)가-1(등촌자동차매매상사)",
+      "inventoryCount": 1,
+      "dealerCount": 15,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220145",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20181228/220145-1.jpg"
+    },
+    {
+      "id": "220260",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "아이원카",
+      "representative": "이기원",
+      "phone": "02-6403-0011",
+      "fax": null,
+      "address": "서울특별시 강서구 양천로 434, 가동 3층 10호(등촌동, 등촌매매단지)",
+      "inventoryCount": 0,
+      "dealerCount": 2,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220260",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20241120/220260.jpg"
+    },
+    {
+      "id": "220163",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)더블제이아우토",
+      "representative": "장지운",
+      "phone": "02-3663-2695",
+      "fax": "02-3664-2695",
+      "address": "서울특별시 강서구 양천로 434 (등촌동) 등촌자동차매매단지 2층 2동 4호",
+      "inventoryCount": 0,
+      "dealerCount": 2,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220163",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220246",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "세이프중고차(주)",
+      "representative": "장순주",
+      "phone": "02-3390-8576",
+      "fax": null,
+      "address": "서울 강서구 양천로 434 (등촌동) 3층 나동 1호",
+      "inventoryCount": 0,
+      "dealerCount": 5,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220246",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20230104/220246.jpg"
+    },
+    {
+      "id": "220252",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 카와라",
+      "representative": "최종근",
+      "phone": null,
+      "fax": null,
+      "address": "서울 강서구 양천로 434 (등촌동, 등촌매매단지) 다동3층11호",
+      "inventoryCount": 0,
+      "dealerCount": 2,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220252",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20231027/220252.jpg"
+    },
+    {
+      "id": "220257",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "등불카",
+      "representative": "서광석",
+      "phone": "02-2659-76767",
+      "fax": null,
+      "address": "서울 강서구 양천로 434 (등촌동, 원창기업) 나동 13호",
+      "inventoryCount": 0,
+      "dealerCount": 6,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220257",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20260420/220257.jpg"
+    },
+    {
+      "id": "220244",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "당근자동차주식회사",
+      "representative": "이서훈",
+      "phone": "02-3661-1133",
+      "fax": "02-2659-8289",
+      "address": "서울 강서구 양천로 434 (등촌동, 등촌자동차매매단지) 3층 나동 14호",
+      "inventoryCount": 0,
+      "dealerCount": 3,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220244",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20260622/220244.jpg"
+    },
+    {
+      "id": "220216",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 에스알카",
+      "representative": "민성재",
+      "phone": "02-3663-3116",
+      "fax": "02-3663-4585",
+      "address": "서울 강서구 양천로 434 (등촌동, 강서자동차매매단지) 나동 3층 16호",
+      "inventoryCount": 0,
+      "dealerCount": 8,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220216",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20191204/220216-5.jpg"
+    },
+    {
+      "id": "220224",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)진성",
+      "representative": "고은미",
+      "phone": "02-3661-9962",
+      "fax": null,
+      "address": "서울 강서구 양천로 434 (등촌동, 원창기업) 다동 16호",
+      "inventoryCount": 0,
+      "dealerCount": 1,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220224",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220248",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)나우모터스",
+      "representative": "박찬식",
+      "phone": "02-3665-8871",
+      "fax": "02-3662-1113",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 201호",
+      "inventoryCount": 0,
+      "dealerCount": 7,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220248",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20230306/220248.jpg"
+    },
+    {
+      "id": "220240",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)서울오토벨",
+      "representative": "권준일",
+      "phone": "02-3662-5214",
+      "fax": "02-3663-5214",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 204호",
+      "inventoryCount": 62,
+      "dealerCount": 6,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220240",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20220330/220240.jpg"
+    },
+    {
+      "id": "220166",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)카투",
+      "representative": "정기주",
+      "phone": "02-2658-8911",
+      "fax": "02-3663-0521",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 205호",
+      "inventoryCount": 0,
+      "dealerCount": 3,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220166",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220106",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)명성모터스",
+      "representative": "정영철",
+      "phone": "02-3663-0520",
+      "fax": "02-3663-0521",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 206호",
+      "inventoryCount": 5,
+      "dealerCount": 14,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220106",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20250630/220106.hum"
+    },
+    {
+      "id": "220191",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 젠틀카",
+      "representative": "신두하",
+      "phone": "02-2659-6400",
+      "fax": "02-2659-0068",
+      "address": "서울 강서구 양천로 434 (등촌동, 등촌자동차매매단지) 2층 1호",
+      "inventoryCount": 18,
+      "dealerCount": 8,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220191",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20171114/220191.jpg"
+    },
+    {
+      "id": "220273",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)로지넷글로벌",
+      "representative": "문지후",
+      "phone": "010-9392-0531",
+      "fax": null,
+      "address": "서울 강서구 양천로 434 (등촌동, 원창기업) 2층 2호",
+      "inventoryCount": 0,
+      "dealerCount": 0,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220273",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20260203/220273.jpg"
+    },
+    {
+      "id": "220228",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)탑모터스",
+      "representative": "이강권",
+      "phone": "02-2668-0388",
+      "fax": "02-2668-0922",
+      "address": "서울 강서구 양천로 434 (등촌동, 등촌동자동차매매단지) 나동 3층 3호",
+      "inventoryCount": 0,
+      "dealerCount": 12,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220228",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20210122/220228.jpg"
+    },
+    {
+      "id": "220241",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 리버모터스",
+      "representative": "박성호",
+      "phone": "02-2658-8542",
+      "fax": null,
+      "address": "서울 강서구 양천로 434 (등촌동, 등촌자동차매매단지) 2층 3호",
+      "inventoryCount": 0,
+      "dealerCount": 6,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220241",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220220",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 오토플래닛",
+      "representative": "임재만",
+      "phone": "02-3662-0971",
+      "fax": "02-3662-0974",
+      "address": "서울 강서구 양천로 434 (등촌동, 강서자동차매매단지) 가동3층 3호",
+      "inventoryCount": 0,
+      "dealerCount": 6,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220220",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220221",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 비케이투모터",
+      "representative": "이병길",
+      "phone": "02-3664-1886",
+      "fax": "02-3664-1887",
+      "address": "서울 강서구 양천로 434 (등촌동, 강서자동차매매단지) 다동 3층 3호",
+      "inventoryCount": 0,
+      "dealerCount": 15,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220221",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20200604/220221.jpg"
+    },
+    {
+      "id": "220256",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)이엑스오토",
+      "representative": "김휘",
+      "phone": "02-2659-2050",
+      "fax": "02-2659-8001",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 3층 301호",
+      "inventoryCount": 14,
+      "dealerCount": 6,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220256",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20240227/220256.jpg"
+    },
+    {
+      "id": "220227",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)태성모터스",
+      "representative": "안광춘",
+      "phone": "02-3661-0726",
+      "fax": "02-3661-0727",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 302호",
+      "inventoryCount": 0,
+      "dealerCount": 11,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220227",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20230719/220227.jpg"
+    },
+    {
+      "id": "220188",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)차파는누나",
+      "representative": "오영아",
+      "phone": "02-2604-2227",
+      "fax": "02-2604-2228",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 303호",
+      "inventoryCount": 0,
+      "dealerCount": 5,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220188",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20180504/220188.jpg"
+    },
+    {
+      "id": "220068",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)프라임모터스",
+      "representative": "김문의",
+      "phone": "02-3664-9400",
+      "fax": "02-3664-7300",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 304호",
+      "inventoryCount": 0,
+      "dealerCount": 17,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220068",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220183",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)라인자동차",
+      "representative": "김성배",
+      "phone": "02-6259-1005",
+      "fax": "02-3661-9015",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 305호",
+      "inventoryCount": 4,
+      "dealerCount": 13,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220183",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220073",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)카엔카",
+      "representative": "조중민",
+      "phone": "02-3661-6324",
+      "fax": "02-2668-9900",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 306호",
+      "inventoryCount": 0,
+      "dealerCount": 15,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220073",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220264",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)플랜오토",
+      "representative": "김보경",
+      "phone": "02-2668-3696",
+      "fax": "02-2668-3697",
+      "address": "서울특별시 강서구 강서로74길 58 401호(등촌동, 가양오토갤러리)",
+      "inventoryCount": 0,
+      "dealerCount": 19,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220264",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20241206/220264.jpg"
+    },
+    {
+      "id": "220271",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)다빈치오토",
+      "representative": "윤경희",
+      "phone": "02-3661-6324",
+      "fax": null,
+      "address": "서울특별시 강서구 강서로74길 58, 403호 (등촌동,가양오토갤러리)",
+      "inventoryCount": 0,
+      "dealerCount": 4,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220271",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20251031/220271.jpg"
+    },
+    {
+      "id": "220259",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)아시아모터스",
+      "representative": "소양수",
+      "phone": "02-333-4422",
+      "fax": null,
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 405호",
+      "inventoryCount": 0,
+      "dealerCount": 4,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220259",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20240712/220259.jpg"
+    },
+    {
+      "id": "220136",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)케이앤드에스모터스",
+      "representative": "김인호",
+      "phone": "02-3662-7722",
+      "fax": "02-3662-4343",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 406호",
+      "inventoryCount": 5,
+      "dealerCount": 12,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220136",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220247",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "원모터스",
+      "representative": "임찬우외1명",
+      "phone": "070-5088-2333",
+      "fax": "070-8224-2332",
+      "address": "서울 강서구 양천로 434 (등촌동, 등촌매매단지) 나동 5호",
+      "inventoryCount": 0,
+      "dealerCount": 5,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220247",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20230216/220247.jpg"
+    },
+    {
+      "id": "220275",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)에이블오토",
+      "representative": "조재형",
+      "phone": "02-3663-4960",
+      "fax": null,
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 501호",
+      "inventoryCount": 1,
+      "dealerCount": 10,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220275",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220270",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 카플러스",
+      "representative": "정미선",
+      "phone": "010-4797-9231",
+      "fax": null,
+      "address": "서울시 강서구 강서로74길 58 5층 503호(등촌동, 가양오토갤러리)",
+      "inventoryCount": 0,
+      "dealerCount": 8,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220270",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20250912/220270.jpg"
+    },
+    {
+      "id": "220267",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 하렌카",
+      "representative": "신석주",
+      "phone": "02-3664-0101",
+      "fax": null,
+      "address": "서울시 강서구 강서로74길 58 , 504호(등촌동,가양오토갤러리)",
+      "inventoryCount": 0,
+      "dealerCount": 8,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220267",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20250425/220267.jpg"
+    },
+    {
+      "id": "220263",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)에이아이카",
+      "representative": "김이영",
+      "phone": "02-2659-5776",
+      "fax": "02-2659-5777",
+      "address": "서울시 강서구 강서로74길 58 505호( 등촌동, 가양오토갤러리)",
+      "inventoryCount": 7,
+      "dealerCount": 8,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220263",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20240830/220263.jpg"
+    },
+    {
+      "id": "220222",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)한솔모터스",
+      "representative": "손효선",
+      "phone": "02-898-8572",
+      "fax": "02-898-8523",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 506호",
+      "inventoryCount": 0,
+      "dealerCount": 11,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220222",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220245",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "엔카닷컴(주)",
+      "representative": "김상범",
+      "phone": null,
+      "fax": null,
+      "address": "서울 강서구 양천로 434 (등촌동, 등촌매매단지) 나동 6호",
+      "inventoryCount": 0,
+      "dealerCount": 7,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220245",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220232",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)양심중고차김진",
+      "representative": "장경희",
+      "phone": "02-3662-2745",
+      "fax": "02-3662-2745",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 601호",
+      "inventoryCount": 0,
+      "dealerCount": 1,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220232",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220249",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "엘림오토갤러리",
+      "representative": "원희성",
+      "phone": null,
+      "fax": null,
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 602호",
+      "inventoryCount": 0,
+      "dealerCount": 0,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220249",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220066",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)애플카",
+      "representative": "조태환",
+      "phone": "02-3665-3900",
+      "fax": "02-3665-3977",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 603호",
+      "inventoryCount": 1,
+      "dealerCount": 22,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220066",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20190102/220066-1.jpg"
+    },
+    {
+      "id": "220229",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)카웨이",
+      "representative": "오현정",
+      "phone": "02-3663-8867",
+      "fax": "02-3663-7272",
+      "address": "서울 강서구 강서로74길 58 (등촌동, 가양오토갤러리) 606호",
+      "inventoryCount": 0,
+      "dealerCount": 14,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220229",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20210929/220229.jpg"
+    },
+    {
+      "id": "220211",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사뉴케이스페이스",
+      "representative": "김양수",
+      "phone": "02-2659-2659",
+      "fax": "02-2659-1800",
+      "address": "서울 강서구 양천로 434 3층(등촌동, 등촌매매단지) 나동 7호",
+      "inventoryCount": 10,
+      "dealerCount": 16,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220211",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20200821/220211.jpg"
+    },
+    {
+      "id": "220235",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 미스터픽",
+      "representative": "최철훈,송상훈",
+      "phone": "02-569-7727",
+      "fax": null,
+      "address": "서울 강서구 양천로 434 (등촌동, 등촌매매단지) 3층 가동7호",
+      "inventoryCount": 0,
+      "dealerCount": 6,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220235",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220262",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "롯데렌탈 주식회사",
+      "representative": "이장섭",
+      "phone": "02-3665-9953",
+      "fax": "02-3404-3398",
+      "address": "서울특별시 강서구 양천로53길 52 1층(가양동)",
+      "inventoryCount": 0,
+      "dealerCount": 8,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220262",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220274",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)순리대로",
+      "representative": "한성민",
+      "phone": "010-6598-1161",
+      "fax": null,
+      "address": "서울 강서구 양천로 434 (등촌동, 원창기업) 가동 12호",
+      "inventoryCount": 0,
+      "dealerCount": 0,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220274",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20260211/220274.jpg"
+    },
+    {
+      "id": "220265",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 아시아글림카",
+      "representative": "최클리멘티",
+      "phone": "010-7687-1983",
+      "fax": null,
+      "address": "서울특별시 강서구 양천로 434, 3층 다동 17호",
+      "inventoryCount": 0,
+      "dealerCount": 1,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220265",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20241211/220265.jpg"
+    },
+    {
+      "id": "220266",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "(주)아인스오토중고사업",
+      "representative": "김미영",
+      "phone": "010-6204-9303",
+      "fax": null,
+      "address": "서울 강서구 양천로 434 (등촌동, 원창기업) 다동 2호 (등촌매매단지)",
+      "inventoryCount": 0,
+      "dealerCount": 3,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220266",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/"
+    },
+    {
+      "id": "220272",
+      "complexId": "seoul-gangseo-autoland",
+      "name": "주식회사 캐낸다",
+      "representative": "윤규현",
+      "phone": "010-5919-9937",
+      "fax": null,
+      "address": "서울시 강서구 양천로 434, 다동 7호 (등촌동, 등촌자동차매매단지)",
+      "inventoryCount": 0,
+      "dealerCount": 2,
+      "sourceUrl": "https://cha894.com/coop/list_dealer.html?sangsaKey=220272",
+      "thumbnailUrl": "http://em.cha894.com/data/__dealer/20251029/220272.jpg"
+    }
+  ],
+  "dealers": [
+    {
+      "id": "SW24-00273",
+      "companyId": "220248",
+      "name": "박재우",
+      "companyName": "(주)나우모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241231/220248-10.hum",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220248&dealerId=SW24-00273"
+    },
+    {
+      "id": "SW26-00027",
+      "companyId": "220248",
+      "name": "석동순",
+      "companyName": "(주)나우모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240819/220248-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220248&dealerId=SW26-00027"
+    },
+    {
+      "id": "SW24-00265",
+      "companyId": "220248",
+      "name": "심성수",
+      "companyName": "(주)나우모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230523/220248-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220248&dealerId=SW24-00265"
+    },
+    {
+      "id": "SW24-00266",
+      "companyId": "220248",
+      "name": "윤익현",
+      "companyName": "(주)나우모터스",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230504/220248-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220248&dealerId=SW24-00266"
+    },
+    {
+      "id": "SW24-00264",
+      "companyId": "220248",
+      "name": "이광열",
+      "companyName": "(주)나우모터스",
+      "inventoryCount": 9,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230523/220248-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220248&dealerId=SW24-00264"
+    },
+    {
+      "id": "SW26-00026",
+      "companyId": "220248",
+      "name": "이선기",
+      "companyName": "(주)나우모터스",
+      "inventoryCount": 7,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240927/220248-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220248&dealerId=SW26-00026"
+    },
+    {
+      "id": "SW24-00267",
+      "companyId": "220248",
+      "name": "이승욱",
+      "companyName": "(주)나우모터스",
+      "inventoryCount": 5,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230316/220248-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220248&dealerId=SW24-00267"
+    },
+    {
+      "id": "SW26-00049",
+      "companyId": "220271",
+      "name": "박채윤",
+      "companyName": "(주)다빈치오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260324/220271-13.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220271&dealerId=SW26-00049"
+    },
+    {
+      "id": "SW25-00150",
+      "companyId": "220271",
+      "name": "이준영",
+      "companyName": "(주)다빈치오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251031/220271-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220271&dealerId=SW25-00150"
+    },
+    {
+      "id": "SW25-00149",
+      "companyId": "220271",
+      "name": "전윤기",
+      "companyName": "(주)다빈치오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251031/220271-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220271&dealerId=SW25-00149"
+    },
+    {
+      "id": "SW25-00158",
+      "companyId": "220271",
+      "name": "허금화",
+      "companyName": "(주)다빈치오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251202/220271-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220271&dealerId=SW25-00158"
+    },
+    {
+      "id": "SW26-00011",
+      "companyId": "220163",
+      "name": "이성철",
+      "companyName": "(주)더블제이아우토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210219/220163-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220163&dealerId=SW26-00011"
+    },
+    {
+      "id": "SW24-00045",
+      "companyId": "220163",
+      "name": "장지수",
+      "companyName": "(주)더블제이아우토",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20180518/220163-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220163&dealerId=SW24-00045"
+    },
+    {
+      "id": "SW24-00225",
+      "companyId": "220183",
+      "name": "김성철",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 9,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210916/220183-29.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW24-00225"
+    },
+    {
+      "id": "SW25-00177",
+      "companyId": "220183",
+      "name": "김승범",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 5,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20220128/220183-30.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW25-00177"
+    },
+    {
+      "id": "SW25-00145",
+      "companyId": "220183",
+      "name": "김신욱",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220183-17.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW25-00145"
+    },
+    {
+      "id": "SW22-00208",
+      "companyId": "220183",
+      "name": "김원배",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20221220/220183-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW22-00208"
+    },
+    {
+      "id": "SW25-00164",
+      "companyId": "220183",
+      "name": "김지영",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 3,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240819/220183-38.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW25-00164"
+    },
+    {
+      "id": "SW24-00197",
+      "companyId": "220183",
+      "name": "노정남",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 5,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20221220/220183-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW24-00197"
+    },
+    {
+      "id": "SW24-00198",
+      "companyId": "220183",
+      "name": "박병학",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190102/220183-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW24-00198"
+    },
+    {
+      "id": "SW22-00243",
+      "companyId": "220183",
+      "name": "박재우",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220183-18.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW22-00243"
+    },
+    {
+      "id": "SW26-00095",
+      "companyId": "220183",
+      "name": "손지형",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260617/220183-41.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW26-00095"
+    },
+    {
+      "id": "SW24-00229",
+      "companyId": "220183",
+      "name": "이정욱",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230207/220183-32.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW24-00229"
+    },
+    {
+      "id": "SW25-00226",
+      "companyId": "220183",
+      "name": "이현인",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251224/220183-40.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW25-00226"
+    },
+    {
+      "id": "SW24-00249",
+      "companyId": "220183",
+      "name": "전신식",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20231016/220183-33.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW24-00249"
+    },
+    {
+      "id": "SW25-00176",
+      "companyId": "220183",
+      "name": "한성민",
+      "companyName": "(주)라인자동차",
+      "inventoryCount": 6,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240503/220183-36.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220183&dealerId=SW25-00176"
+    },
+    {
+      "id": "SW25-00167",
+      "companyId": "220106",
+      "name": "공무정",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20231214/220106-71.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW25-00167"
+    },
+    {
+      "id": "SW25-00144",
+      "companyId": "220106",
+      "name": "김신욱",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220106-61.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW25-00144"
+    },
+    {
+      "id": "SW26-00028",
+      "companyId": "220106",
+      "name": "김원식",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260119/220106-74.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW26-00028"
+    },
+    {
+      "id": "SW24-00184",
+      "companyId": "220106",
+      "name": "김준영",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 15,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20170206/220106-57.png",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW24-00184"
+    },
+    {
+      "id": "SW24-00185",
+      "companyId": "220106",
+      "name": "김태양",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20170206/220106-7.png",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW24-00185"
+    },
+    {
+      "id": "SW25-00166",
+      "companyId": "220106",
+      "name": "김한도",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20170206/220106-41.png",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW25-00166"
+    },
+    {
+      "id": "SW24-00187",
+      "companyId": "220106",
+      "name": "노영진",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190621/220106-63.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW24-00187"
+    },
+    {
+      "id": "SW24-00188",
+      "companyId": "220106",
+      "name": "박기철",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 3,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20170206/220106-23.png",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW24-00188"
+    },
+    {
+      "id": "SW22-00245",
+      "companyId": "220106",
+      "name": "박재우",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220106-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW22-00245"
+    },
+    {
+      "id": "SW24-00224",
+      "companyId": "220106",
+      "name": "변경중",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20170206/220106-58.png",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW24-00224"
+    },
+    {
+      "id": "SW24-00182",
+      "companyId": "220106",
+      "name": "사공준우",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241203/220106-72.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW24-00182"
+    },
+    {
+      "id": "SW24-00183",
+      "companyId": "220106",
+      "name": "이승호",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241203/220106-73.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW24-00183"
+    },
+    {
+      "id": "SW25-00165",
+      "companyId": "220106",
+      "name": "이연우",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20220915/220106-67.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW25-00165"
+    },
+    {
+      "id": "SW24-00186",
+      "companyId": "220106",
+      "name": "이우빈",
+      "companyName": "(주)명성모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230621/220106-70.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220106&dealerId=SW24-00186"
+    },
+    {
+      "id": "SW25-00245",
+      "companyId": "220240",
+      "name": "권장현",
+      "companyName": "(주)서울오토벨",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20220330/220240-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220240&dealerId=SW25-00245"
+    },
+    {
+      "id": "SW25-00244",
+      "companyId": "220240",
+      "name": "권준도",
+      "companyName": "(주)서울오토벨",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20220419/220240-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220240&dealerId=SW25-00244"
+    },
+    {
+      "id": "SW26-00048",
+      "companyId": "220240",
+      "name": "박윤정",
+      "companyName": "(주)서울오토벨",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260324/220240-11.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220240&dealerId=SW26-00048"
+    },
+    {
+      "id": "SW25-00048",
+      "companyId": "220240",
+      "name": "임태빈",
+      "companyName": "(주)서울오토벨",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250123/220240-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220240&dealerId=SW25-00048"
+    },
+    {
+      "id": "SW24-00270",
+      "companyId": "220240",
+      "name": "최준혁",
+      "companyName": "(주)서울오토벨",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230302/220240-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220240&dealerId=SW24-00270"
+    },
+    {
+      "id": "SW26-00117",
+      "companyId": "220240",
+      "name": "하헌석",
+      "companyName": "(주)서울오토벨",
+      "inventoryCount": 3,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260805/220240-12.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220240&dealerId=SW26-00117"
+    },
+    {
+      "id": "SW25-00018",
+      "companyId": "220259",
+      "name": "송태권",
+      "companyName": "(주)아시아모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250114/220259-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220259&dealerId=SW25-00018"
+    },
+    {
+      "id": "SW25-00223",
+      "companyId": "220259",
+      "name": "여인범",
+      "companyName": "(주)아시아모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240712/220259-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220259&dealerId=SW25-00223"
+    },
+    {
+      "id": "SW25-00110",
+      "companyId": "220259",
+      "name": "조영진",
+      "companyName": "(주)아시아모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250725/220259-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220259&dealerId=SW25-00110"
+    },
+    {
+      "id": "SW25-00224",
+      "companyId": "220259",
+      "name": "주재형",
+      "companyName": "(주)아시아모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240819/220259-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220259&dealerId=SW25-00224"
+    },
+    {
+      "id": "SW26-00023",
+      "companyId": "220266",
+      "name": "양성태",
+      "companyName": "(주)아인스오토중고사업부",
+      "inventoryCount": 3,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260115/220266-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220266&dealerId=SW26-00023"
+    },
+    {
+      "id": "SW26-00010",
+      "companyId": "220266",
+      "name": "이성철",
+      "companyName": "(주)아인스오토중고사업부",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220266&dealerId=SW26-00010"
+    },
+    {
+      "id": "SW26-00024",
+      "companyId": "220266",
+      "name": "조비",
+      "companyName": "(주)아인스오토중고사업부",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260115/220266-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220266&dealerId=SW26-00024"
+    },
+    {
+      "id": "SW25-00240",
+      "companyId": "220066",
+      "name": "곽창신",
+      "companyName": "(주)애플카",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20211201/220066-90.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW25-00240"
+    },
+    {
+      "id": "SW24-00256",
+      "companyId": "220066",
+      "name": "김관응",
+      "companyName": "(주)애플카",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210728/220066-84.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW24-00256"
+    },
+    {
+      "id": "SW25-00239",
+      "companyId": "220066",
+      "name": "김기영",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240412/220066-99.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW25-00239"
+    },
+    {
+      "id": "SW25-00247",
+      "companyId": "220066",
+      "name": "김민재",
+      "companyName": "(주)애플카",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251231/220066-101.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW25-00247"
+    },
+    {
+      "id": "SW25-00143",
+      "companyId": "220066",
+      "name": "김신욱",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220066-70.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW25-00143"
+    },
+    {
+      "id": "SW25-00238",
+      "companyId": "220066",
+      "name": "김유경",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20211208/220066-93.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW25-00238"
+    },
+    {
+      "id": "SW25-00236",
+      "companyId": "220066",
+      "name": "김윤호",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240108/220066-96.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW25-00236"
+    },
+    {
+      "id": "SW24-00252",
+      "companyId": "220066",
+      "name": "김찬기",
+      "companyName": "(주)애플카",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210115/220066-46.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW24-00252"
+    },
+    {
+      "id": "SW26-00109",
+      "companyId": "220066",
+      "name": "김태훈",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260716/220066-102.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW26-00109"
+    },
+    {
+      "id": "SW24-00255",
+      "companyId": "220066",
+      "name": "김회성",
+      "companyName": "(주)애플카",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210728/220066-83.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW24-00255"
+    },
+    {
+      "id": "SW24-00020",
+      "companyId": "220066",
+      "name": "문정순",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20170206/220066-55.png",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW24-00020"
+    },
+    {
+      "id": "SW22-00247",
+      "companyId": "220066",
+      "name": "박재우",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220066-27.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW22-00247"
+    },
+    {
+      "id": "SW24-00253",
+      "companyId": "220066",
+      "name": "박홍규",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210115/220066-60.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW24-00253"
+    },
+    {
+      "id": "SW24-00258",
+      "companyId": "220066",
+      "name": "손현식",
+      "companyName": "(주)애플카",
+      "inventoryCount": 9,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210728/220066-86.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW24-00258"
+    },
+    {
+      "id": "SW24-00251",
+      "companyId": "220066",
+      "name": "안병남",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210115/220066-22.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW24-00251"
+    },
+    {
+      "id": "SW25-00241",
+      "companyId": "220066",
+      "name": "윤영준",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20180905/220066-66.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW25-00241"
+    },
+    {
+      "id": "SW24-00259",
+      "companyId": "220066",
+      "name": "이선희",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210728/220066-89.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW24-00259"
+    },
+    {
+      "id": "SW25-00057",
+      "companyId": "220066",
+      "name": "이신",
+      "companyName": "(주)애플카",
+      "inventoryCount": 5,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250331/220066-100.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW25-00057"
+    },
+    {
+      "id": "SW24-00257",
+      "companyId": "220066",
+      "name": "임완묵",
+      "companyName": "(주)애플카",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210728/220066-85.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW24-00257"
+    },
+    {
+      "id": "SW25-00237",
+      "companyId": "220066",
+      "name": "장대성",
+      "companyName": "(주)애플카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20211229/220066-95.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW25-00237"
+    },
+    {
+      "id": "SW24-00260",
+      "companyId": "220066",
+      "name": "전영화",
+      "companyName": "(주)애플카",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20221229/220066-97.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW24-00260"
+    },
+    {
+      "id": "SW25-00242",
+      "companyId": "220066",
+      "name": "최정진",
+      "companyName": "(주)애플카",
+      "inventoryCount": 3,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240307/220066-98.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220066&dealerId=SW25-00242"
+    },
+    {
+      "id": "SW25-00009",
+      "companyId": "220232",
+      "name": "김진",
+      "companyName": "(주)양심중고차김진",
+      "inventoryCount": 22,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250108/220232-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220232&dealerId=SW25-00009"
+    },
+    {
+      "id": "SW26-00114",
+      "companyId": "220275",
+      "name": "김세진",
+      "companyName": "(주)에이블오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260727/220275-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220275&dealerId=SW26-00114"
+    },
+    {
+      "id": "SW26-00131",
+      "companyId": "220275",
+      "name": "류문숙",
+      "companyName": "(주)에이블오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260907/220275-12.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220275&dealerId=SW26-00131"
+    },
+    {
+      "id": "SW26-00103",
+      "companyId": "220275",
+      "name": "문민철",
+      "companyName": "(주)에이블오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260714/220275-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220275&dealerId=SW26-00103"
+    },
+    {
+      "id": "SW26-00123",
+      "companyId": "220275",
+      "name": "안재성",
+      "companyName": "(주)에이블오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260819/220275-10.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220275&dealerId=SW26-00123"
+    },
+    {
+      "id": "SW26-00118",
+      "companyId": "220275",
+      "name": "염기무",
+      "companyName": "(주)에이블오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260805/220275-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220275&dealerId=SW26-00118"
+    },
+    {
+      "id": "SW26-00116",
+      "companyId": "220275",
+      "name": "윤효준",
+      "companyName": "(주)에이블오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260803/220275-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220275&dealerId=SW26-00116"
+    },
+    {
+      "id": "SW26-00106",
+      "companyId": "220275",
+      "name": "이루리",
+      "companyName": "(주)에이블오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260714/220275-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220275&dealerId=SW26-00106"
+    },
+    {
+      "id": "SW26-00113",
+      "companyId": "220275",
+      "name": "이주혁",
+      "companyName": "(주)에이블오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260727/220275-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220275&dealerId=SW26-00113"
+    },
+    {
+      "id": "SW26-00107",
+      "companyId": "220275",
+      "name": "이지영",
+      "companyName": "(주)에이블오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260714/220275-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220275&dealerId=SW26-00107"
+    },
+    {
+      "id": "SW26-00130",
+      "companyId": "220275",
+      "name": "임영규",
+      "companyName": "(주)에이블오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260902/220275-11.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220275&dealerId=SW26-00130"
+    },
+    {
+      "id": "SW25-00182",
+      "companyId": "220263",
+      "name": "강현",
+      "companyName": "(주)에이아이카",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240930/220263-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220263&dealerId=SW25-00182"
+    },
+    {
+      "id": "SW25-00179",
+      "companyId": "220263",
+      "name": "김승태",
+      "companyName": "(주)에이아이카",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240903/220263-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220263&dealerId=SW25-00179"
+    },
+    {
+      "id": "SW25-00180",
+      "companyId": "220263",
+      "name": "김영록",
+      "companyName": "(주)에이아이카",
+      "inventoryCount": 3,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240903/220263-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220263&dealerId=SW25-00180"
+    },
+    {
+      "id": "SW25-00181",
+      "companyId": "220263",
+      "name": "김영철",
+      "companyName": "(주)에이아이카",
+      "inventoryCount": 6,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240906/220263-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220263&dealerId=SW25-00181"
+    },
+    {
+      "id": "SW25-00183",
+      "companyId": "220263",
+      "name": "김오진",
+      "companyName": "(주)에이아이카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241106/220263-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220263&dealerId=SW25-00183"
+    },
+    {
+      "id": "SW25-00184",
+      "companyId": "220263",
+      "name": "김찬화",
+      "companyName": "(주)에이아이카",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241106/220263-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220263&dealerId=SW25-00184"
+    },
+    {
+      "id": "SW25-00124",
+      "companyId": "220263",
+      "name": "박은관",
+      "companyName": "(주)에이아이카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250923/220263-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220263&dealerId=SW25-00124"
+    },
+    {
+      "id": "SW25-00125",
+      "companyId": "220263",
+      "name": "이상윤",
+      "companyName": "(주)에이아이카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250923/220263-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220263&dealerId=SW25-00125"
+    },
+    {
+      "id": "SW25-00173",
+      "companyId": "220256",
+      "name": "김인석",
+      "companyName": "(주)이엑스오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240328/220256-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220256&dealerId=SW25-00173"
+    },
+    {
+      "id": "SW25-00174",
+      "companyId": "220256",
+      "name": "송영창",
+      "companyName": "(주)이엑스오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240304/220256-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220256&dealerId=SW25-00174"
+    },
+    {
+      "id": "SW26-00041",
+      "companyId": "220256",
+      "name": "이건영",
+      "companyName": "(주)이엑스오토",
+      "inventoryCount": 6,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260227/220256-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220256&dealerId=SW26-00041"
+    },
+    {
+      "id": "SW25-00039",
+      "companyId": "220256",
+      "name": "이승현",
+      "companyName": "(주)이엑스오토",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250225/220256-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220256&dealerId=SW25-00039"
+    },
+    {
+      "id": "SW26-00042",
+      "companyId": "220256",
+      "name": "정복석",
+      "companyName": "(주)이엑스오토",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260227/220256-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220256&dealerId=SW26-00042"
+    },
+    {
+      "id": "SW25-00023",
+      "companyId": "220256",
+      "name": "하지영",
+      "companyName": "(주)이엑스오토",
+      "inventoryCount": 3,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250123/220256-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220256&dealerId=SW25-00023"
+    },
+    {
+      "id": "SW24-00068",
+      "companyId": "220224",
+      "name": "한규철",
+      "companyName": "(주)진성",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20201126/220224-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220224&dealerId=SW24-00068"
+    },
+    {
+      "id": "SW26-00001",
+      "companyId": "220188",
+      "name": "김수열",
+      "companyName": "(주)차파는누나",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200303/220188-12.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220188&dealerId=SW26-00001"
+    },
+    {
+      "id": "SW25-00139",
+      "companyId": "220188",
+      "name": "김신욱",
+      "companyName": "(주)차파는누나",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220188-18.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220188&dealerId=SW25-00139"
+    },
+    {
+      "id": "SW22-00237",
+      "companyId": "220188",
+      "name": "박재우",
+      "companyName": "(주)차파는누나",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220188-17.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220188&dealerId=SW22-00237"
+    },
+    {
+      "id": "SW26-00093",
+      "companyId": "220188",
+      "name": "윤이나",
+      "companyName": "(주)차파는누나",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260617/220188-20.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220188&dealerId=SW26-00093"
+    },
+    {
+      "id": "SW26-00094",
+      "companyId": "220188",
+      "name": "조은비",
+      "companyName": "(주)차파는누나",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260617/220188-21.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220188&dealerId=SW26-00094"
+    },
+    {
+      "id": "SW25-00129",
+      "companyId": "220073",
+      "name": "김신욱",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251028/220073-34.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00129"
+    },
+    {
+      "id": "SW26-00099",
+      "companyId": "220073",
+      "name": "김영민",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260703/220073-36.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW26-00099"
+    },
+    {
+      "id": "SW25-00187",
+      "companyId": "220073",
+      "name": "김창용",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240829/220073-21.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00187"
+    },
+    {
+      "id": "SW24-00248",
+      "companyId": "220073",
+      "name": "김현호",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20231115/220073-14.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW24-00248"
+    },
+    {
+      "id": "SW25-00106",
+      "companyId": "220073",
+      "name": "박창서",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240829/220073-24.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00106"
+    },
+    {
+      "id": "SW25-00209",
+      "companyId": "220073",
+      "name": "송상수",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240829/220073-23.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00209"
+    },
+    {
+      "id": "SW25-00221",
+      "companyId": "220073",
+      "name": "오귀선",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240829/220073-27.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00221"
+    },
+    {
+      "id": "SW25-00186",
+      "companyId": "220073",
+      "name": "유영식",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240829/220073-25.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00186"
+    },
+    {
+      "id": "SW25-00055",
+      "companyId": "220073",
+      "name": "윤민우",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250327/220073-33.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00055"
+    },
+    {
+      "id": "SW25-00222",
+      "companyId": "220073",
+      "name": "이재진",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240829/220073-20.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00222"
+    },
+    {
+      "id": "SW26-00101",
+      "companyId": "220073",
+      "name": "임현우",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260703/220073-35.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW26-00101"
+    },
+    {
+      "id": "SW25-00198",
+      "companyId": "220073",
+      "name": "정연우",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240920/220073-31.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00198"
+    },
+    {
+      "id": "SW25-00054",
+      "companyId": "220073",
+      "name": "정일진",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250327/220073-32.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00054"
+    },
+    {
+      "id": "SW25-00146",
+      "companyId": "220073",
+      "name": "조중민",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230816/220073-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00146"
+    },
+    {
+      "id": "SW25-00208",
+      "companyId": "220073",
+      "name": "홍서진",
+      "companyName": "(주)카엔카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240109/220073-15.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220073&dealerId=SW25-00208"
+    },
+    {
+      "id": "SW25-00014",
+      "companyId": "220229",
+      "name": "김수정",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250108/220229-13.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW25-00014"
+    },
+    {
+      "id": "SW25-00137",
+      "companyId": "220229",
+      "name": "김신욱",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210329/220229-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW25-00137"
+    },
+    {
+      "id": "SW25-00175",
+      "companyId": "220229",
+      "name": "김웅",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20211223/220229-11.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW25-00175"
+    },
+    {
+      "id": "SW22-00232",
+      "companyId": "220229",
+      "name": "박재우",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220229-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW22-00232"
+    },
+    {
+      "id": "SW24-00193",
+      "companyId": "220229",
+      "name": "신용희",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210916/220229-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW24-00193"
+    },
+    {
+      "id": "SW26-00055",
+      "companyId": "220229",
+      "name": "안승민",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260403/220229-15.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW26-00055"
+    },
+    {
+      "id": "SW24-00191",
+      "companyId": "220229",
+      "name": "양지수",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210916/220229-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW24-00191"
+    },
+    {
+      "id": "SW24-00192",
+      "companyId": "220229",
+      "name": "엄창군",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210916/220229-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW24-00192"
+    },
+    {
+      "id": "SW24-00190",
+      "companyId": "220229",
+      "name": "오재형",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210916/220229-10.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW24-00190"
+    },
+    {
+      "id": "SW24-00194",
+      "companyId": "220229",
+      "name": "이상혁",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210916/220229-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW24-00194"
+    },
+    {
+      "id": "SW24-00195",
+      "companyId": "220229",
+      "name": "임동희",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210916/220229-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW24-00195"
+    },
+    {
+      "id": "SW26-00072",
+      "companyId": "220229",
+      "name": "최근혁",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260427/220229-16.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW26-00072"
+    },
+    {
+      "id": "SW26-00053",
+      "companyId": "220229",
+      "name": "한서진",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260331/220229-14.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW26-00053"
+    },
+    {
+      "id": "SW26-00077",
+      "companyId": "220229",
+      "name": "한준희",
+      "companyName": "(주)카웨이",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260507/220229-17.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220229&dealerId=SW26-00077"
+    },
+    {
+      "id": "SW25-00142",
+      "companyId": "220166",
+      "name": "김신욱",
+      "companyName": "(주)카투",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220166-16.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220166&dealerId=SW25-00142"
+    },
+    {
+      "id": "SW22-00242",
+      "companyId": "220166",
+      "name": "박재우",
+      "companyName": "(주)카투",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220166-17.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220166&dealerId=SW22-00242"
+    },
+    {
+      "id": "SW24-00106",
+      "companyId": "220166",
+      "name": "정기주",
+      "companyName": "(주)카투",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220166&dealerId=SW24-00106"
+    },
+    {
+      "id": "SW25-00138",
+      "companyId": "220136",
+      "name": "김신욱",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210329/220136-26.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW25-00138"
+    },
+    {
+      "id": "SW26-00004",
+      "companyId": "220136",
+      "name": "김태홍",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 12,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241023/220136-34.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW26-00004"
+    },
+    {
+      "id": "SW22-00235",
+      "companyId": "220136",
+      "name": "박재우",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220136-25.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW22-00235"
+    },
+    {
+      "id": "SW24-00271",
+      "companyId": "220136",
+      "name": "서진석",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230418/220136-31.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW24-00271"
+    },
+    {
+      "id": "SW25-00098",
+      "companyId": "220136",
+      "name": "신동철",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250630/220136-35.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW25-00098"
+    },
+    {
+      "id": "SW24-00272",
+      "companyId": "220136",
+      "name": "신호종",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210929/220136-29.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW24-00272"
+    },
+    {
+      "id": "SW25-00227",
+      "companyId": "220136",
+      "name": "이미영",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200707/220136-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW25-00227"
+    },
+    {
+      "id": "SW26-00013",
+      "companyId": "220136",
+      "name": "이현학",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 9,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240304/220136-32.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW26-00013"
+    },
+    {
+      "id": "SW25-00099",
+      "companyId": "220136",
+      "name": "이희길",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250630/220136-36.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW25-00099"
+    },
+    {
+      "id": "SW26-00014",
+      "companyId": "220136",
+      "name": "정창우",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20171219/220136-18.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW26-00014"
+    },
+    {
+      "id": "SW24-00222",
+      "companyId": "220136",
+      "name": "최규표",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210304/220136-24.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW24-00222"
+    },
+    {
+      "id": "SW24-00221",
+      "companyId": "220136",
+      "name": "최윤성",
+      "companyName": "(주)케이앤드에스모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20170206/220136-11.png",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220136&dealerId=SW24-00221"
+    },
+    {
+      "id": "SW25-00050",
+      "companyId": "220228",
+      "name": "공의식",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250310/220228-10.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW25-00050"
+    },
+    {
+      "id": "SW26-00084",
+      "companyId": "220228",
+      "name": "김민준",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260514/220228-11.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW26-00084"
+    },
+    {
+      "id": "SW25-00020",
+      "companyId": "220228",
+      "name": "김윤원",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210317/220228-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW25-00020"
+    },
+    {
+      "id": "SW26-00138",
+      "companyId": "220228",
+      "name": "김택근",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260911/220228-18.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW26-00138"
+    },
+    {
+      "id": "SW24-00107",
+      "companyId": "220228",
+      "name": "문정순",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230216/220228-9.hum",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW24-00107"
+    },
+    {
+      "id": "SW26-00085",
+      "companyId": "220228",
+      "name": "박종열",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260514/220228-13.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW26-00085"
+    },
+    {
+      "id": "SW26-00129",
+      "companyId": "220228",
+      "name": "서민식",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260902/220228-17.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW26-00129"
+    },
+    {
+      "id": "SW26-00126",
+      "companyId": "220228",
+      "name": "송인호",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260901/220228-16.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW26-00126"
+    },
+    {
+      "id": "SW21-00046",
+      "companyId": "220228",
+      "name": "신혜영",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210121/220228-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW21-00046"
+    },
+    {
+      "id": "SW26-00086",
+      "companyId": "220228",
+      "name": "유영애",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260514/220228-14.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW26-00086"
+    },
+    {
+      "id": "SW26-00087",
+      "companyId": "220228",
+      "name": "유영애",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260515/220228-15.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW26-00087"
+    },
+    {
+      "id": "SW26-00120",
+      "companyId": "220228",
+      "name": "정준화",
+      "companyName": "(주)탑모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260514/220228-12.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220228&dealerId=SW26-00120"
+    },
+    {
+      "id": "SW24-00243",
+      "companyId": "220227",
+      "name": "김세윤",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20231121/220227-25.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW24-00243"
+    },
+    {
+      "id": "SW24-00246",
+      "companyId": "220227",
+      "name": "김세환",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230901/220227-21.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW24-00246"
+    },
+    {
+      "id": "SW25-00140",
+      "companyId": "220227",
+      "name": "김신욱",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220227-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW25-00140"
+    },
+    {
+      "id": "SW25-00116",
+      "companyId": "220227",
+      "name": "김영진",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250829/220227-31.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW25-00116"
+    },
+    {
+      "id": "SW22-00238",
+      "companyId": "220227",
+      "name": "박재우",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220227-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW22-00238"
+    },
+    {
+      "id": "SW26-00108",
+      "companyId": "220227",
+      "name": "박준성",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260714/220227-32.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW26-00108"
+    },
+    {
+      "id": "SW24-00242",
+      "companyId": "220227",
+      "name": "왕규현",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 7,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210305/220227-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW24-00242"
+    },
+    {
+      "id": "SW24-00244",
+      "companyId": "220227",
+      "name": "우현",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 3,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210929/220227-12.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW24-00244"
+    },
+    {
+      "id": "SW26-00132",
+      "companyId": "220227",
+      "name": "유영민",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260907/220227-33.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW26-00132"
+    },
+    {
+      "id": "SW25-00246",
+      "companyId": "220227",
+      "name": "최세진",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240809/220227-30.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW25-00246"
+    },
+    {
+      "id": "SW25-00220",
+      "companyId": "220227",
+      "name": "한성기",
+      "companyName": "(주)태성모터스",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240628/220227-28.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220227&dealerId=SW25-00220"
+    },
+    {
+      "id": "SW25-00232",
+      "companyId": "220068",
+      "name": "강승제",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240806/220068-64.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00232"
+    },
+    {
+      "id": "SW25-00010",
+      "companyId": "220068",
+      "name": "김영석",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250108/220068-58.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00010"
+    },
+    {
+      "id": "SW25-00216",
+      "companyId": "220068",
+      "name": "김용진",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20171228/220068-27.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00216"
+    },
+    {
+      "id": "SW22-00246",
+      "companyId": "220068",
+      "name": "박재우",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220068-25.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW22-00246"
+    },
+    {
+      "id": "SW25-00218",
+      "companyId": "220068",
+      "name": "송만근",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20170206/220068-41.png",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00218"
+    },
+    {
+      "id": "SW26-00141",
+      "companyId": "220068",
+      "name": "이선옥",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260917/220068-68.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW26-00141"
+    },
+    {
+      "id": "SW25-00083",
+      "companyId": "220068",
+      "name": "이성재",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250520/220068-65.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00083"
+    },
+    {
+      "id": "SW25-00217",
+      "companyId": "220068",
+      "name": "이종윤",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20180109/220068-47.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00217"
+    },
+    {
+      "id": "SW25-00233",
+      "companyId": "220068",
+      "name": "이태동",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20180801/220068-50.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00233"
+    },
+    {
+      "id": "SW25-00017",
+      "companyId": "220068",
+      "name": "조정환",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20170524/220068-45.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00017"
+    },
+    {
+      "id": "SW25-00011",
+      "companyId": "220068",
+      "name": "채수성",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190102/220068-17.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00011"
+    },
+    {
+      "id": "SW25-00219",
+      "companyId": "220068",
+      "name": "최영돈",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240503/220068-62.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00219"
+    },
+    {
+      "id": "SW25-00096",
+      "companyId": "220068",
+      "name": "최은덕",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250630/220068-66.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00096"
+    },
+    {
+      "id": "SW26-00081",
+      "companyId": "220068",
+      "name": "함홍식",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20170206/220068-39.png",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW26-00081"
+    },
+    {
+      "id": "SW25-00016",
+      "companyId": "220068",
+      "name": "허정우",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250114/220068-57.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00016"
+    },
+    {
+      "id": "SW26-00075",
+      "companyId": "220068",
+      "name": "허정호",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240724/220068-63.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW26-00075"
+    },
+    {
+      "id": "SW25-00037",
+      "companyId": "220068",
+      "name": "홍현택",
+      "companyName": "(주)프라임모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230908/220068-61.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220068&dealerId=SW25-00037"
+    },
+    {
+      "id": "SW26-00121",
+      "companyId": "220264",
+      "name": "강석주",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260818/220264-26.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00121"
+    },
+    {
+      "id": "SW26-00112",
+      "companyId": "220264",
+      "name": "김재우",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260727/220264-24.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00112"
+    },
+    {
+      "id": "SW26-00061",
+      "companyId": "220264",
+      "name": "김태훈",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260415/220264-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00061"
+    },
+    {
+      "id": "SW26-00111",
+      "companyId": "220264",
+      "name": "문서연",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260727/220264-23.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00111"
+    },
+    {
+      "id": "SW26-00124",
+      "companyId": "220264",
+      "name": "안성작",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260818/220264-27.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00124"
+    },
+    {
+      "id": "SW26-00088",
+      "companyId": "220264",
+      "name": "안흥태",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260521/220264-20.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00088"
+    },
+    {
+      "id": "SW24-00174",
+      "companyId": "220264",
+      "name": "윤억준",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241203/220264-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW24-00174"
+    },
+    {
+      "id": "SW26-00070",
+      "companyId": "220264",
+      "name": "이지훈",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260421/220264-13.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00070"
+    },
+    {
+      "id": "SW25-00040",
+      "companyId": "220264",
+      "name": "전건희",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250225/220264-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW25-00040"
+    },
+    {
+      "id": "SW26-00067",
+      "companyId": "220264",
+      "name": "정준영",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260421/220264-10.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00067"
+    },
+    {
+      "id": "SW26-00073",
+      "companyId": "220264",
+      "name": "정형모",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260427/220264-15.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00073"
+    },
+    {
+      "id": "SW26-00122",
+      "companyId": "220264",
+      "name": "차원진",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260818/220264-28.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00122"
+    },
+    {
+      "id": "SW26-00068",
+      "companyId": "220264",
+      "name": "천윤희",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260421/220264-11.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00068"
+    },
+    {
+      "id": "SW26-00071",
+      "companyId": "220264",
+      "name": "최승유",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260421/220264-14.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00071"
+    },
+    {
+      "id": "SW26-00115",
+      "companyId": "220264",
+      "name": "최우진",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260803/220264-25.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00115"
+    },
+    {
+      "id": "SW26-00060",
+      "companyId": "220264",
+      "name": "최운하",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260415/220264-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00060"
+    },
+    {
+      "id": "SW26-00092",
+      "companyId": "220264",
+      "name": "허명욱",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260617/220264-21.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00092"
+    },
+    {
+      "id": "SW26-00076",
+      "companyId": "220264",
+      "name": "홍두원",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260507/220264-16.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00076"
+    },
+    {
+      "id": "SW26-00069",
+      "companyId": "220264",
+      "name": "황태양",
+      "companyName": "(주)플랜오토",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260421/220264-12.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220264&dealerId=SW26-00069"
+    },
+    {
+      "id": "SW25-00141",
+      "companyId": "220222",
+      "name": "김신욱",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220222-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW25-00141"
+    },
+    {
+      "id": "SW25-00206",
+      "companyId": "220222",
+      "name": "김현민",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200527/220222-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW25-00206"
+    },
+    {
+      "id": "SW25-00111",
+      "companyId": "220222",
+      "name": "남숙희",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250805/220222-20.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW25-00111"
+    },
+    {
+      "id": "SW25-00204",
+      "companyId": "220222",
+      "name": "박인남",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20220810/220222-16.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW25-00204"
+    },
+    {
+      "id": "SW22-00240",
+      "companyId": "220222",
+      "name": "박재우",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210325/220222-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW22-00240"
+    },
+    {
+      "id": "SW25-00104",
+      "companyId": "220222",
+      "name": "박진희",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250711/220222-19.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW25-00104"
+    },
+    {
+      "id": "SW25-00207",
+      "companyId": "220222",
+      "name": "염동훈",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200527/220222-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW25-00207"
+    },
+    {
+      "id": "SW25-00205",
+      "companyId": "220222",
+      "name": "임민수",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200527/220222-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW25-00205"
+    },
+    {
+      "id": "SW25-00203",
+      "companyId": "220222",
+      "name": "정문영",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 12,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200527/220222-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW25-00203"
+    },
+    {
+      "id": "SW24-00098",
+      "companyId": "220222",
+      "name": "최세헌",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240503/220222-18.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW24-00098"
+    },
+    {
+      "id": "SW24-00010",
+      "companyId": "220222",
+      "name": "최호기",
+      "companyName": "(주)한솔모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200811/220222-11.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220222&dealerId=SW24-00010"
+    },
+    {
+      "id": "SW26-00008",
+      "companyId": "220145",
+      "name": "구명숙",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200108/220145-21.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW26-00008"
+    },
+    {
+      "id": "SW25-00042",
+      "companyId": "220145",
+      "name": "김동훈",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250228/220145-33.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW25-00042"
+    },
+    {
+      "id": "SW24-00208",
+      "companyId": "220145",
+      "name": "문정순",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20191031/220145-15.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW24-00208"
+    },
+    {
+      "id": "SW25-00044",
+      "companyId": "220145",
+      "name": "박상선",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250304/220145-34.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW25-00044"
+    },
+    {
+      "id": "SW26-00007",
+      "companyId": "220145",
+      "name": "박준선",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20220404/220145-30.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW26-00007"
+    },
+    {
+      "id": "SW25-00229",
+      "companyId": "220145",
+      "name": "안육구",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200108/220145-23.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW25-00229"
+    },
+    {
+      "id": "SW26-00127",
+      "companyId": "220145",
+      "name": "양호성",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260902/220145-36.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW26-00127"
+    },
+    {
+      "id": "SW25-00192",
+      "companyId": "220145",
+      "name": "유옥균",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200108/220145-19.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW25-00192"
+    },
+    {
+      "id": "SW25-00019",
+      "companyId": "220145",
+      "name": "이새봄",
+      "companyName": "SJ모터스",
+      "inventoryCount": 4,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20231024/220145-32.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW25-00019"
+    },
+    {
+      "id": "SW25-00194",
+      "companyId": "220145",
+      "name": "이재주",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240116/220145-25.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW25-00194"
+    },
+    {
+      "id": "SW25-00195",
+      "companyId": "220145",
+      "name": "이제백",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20201119/220145-27.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW25-00195"
+    },
+    {
+      "id": "SW25-00193",
+      "companyId": "220145",
+      "name": "이종필",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200108/220145-20.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW25-00193"
+    },
+    {
+      "id": "SW25-00228",
+      "companyId": "220145",
+      "name": "정옥영",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200211/220145-26.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW25-00228"
+    },
+    {
+      "id": "SW26-00090",
+      "companyId": "220145",
+      "name": "조설화",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260605/220145-35.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW26-00090"
+    },
+    {
+      "id": "SW25-00196",
+      "companyId": "220145",
+      "name": "하태일",
+      "companyName": "SJ모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20220127/220145-29.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220145&dealerId=SW25-00196"
+    },
+    {
+      "id": "SW23-00105",
+      "companyId": "220244",
+      "name": "DZHON VADIM",
+      "companyName": "당근자동차주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230713/220244-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220244&dealerId=SW23-00105"
+    },
+    {
+      "id": "SW23-00039",
+      "companyId": "220244",
+      "name": "신민규",
+      "companyName": "당근자동차주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20221108/220244-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220244&dealerId=SW23-00039"
+    },
+    {
+      "id": "SW26-00097",
+      "companyId": "220244",
+      "name": "최준호",
+      "companyName": "당근자동차주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230228/220244-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220244&dealerId=SW26-00097"
+    },
+    {
+      "id": "SW26-00066",
+      "companyId": "220257",
+      "name": "김상희",
+      "companyName": "등불카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220257&dealerId=SW26-00066"
+    },
+    {
+      "id": "SW26-00065",
+      "companyId": "220257",
+      "name": "박진비",
+      "companyName": "등불카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220257&dealerId=SW26-00065"
+    },
+    {
+      "id": "SW26-00064",
+      "companyId": "220257",
+      "name": "신성진",
+      "companyName": "등불카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220257&dealerId=SW26-00064"
+    },
+    {
+      "id": "SW26-00096",
+      "companyId": "220257",
+      "name": "신인철",
+      "companyName": "등불카",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220257&dealerId=SW26-00096"
+    },
+    {
+      "id": "SW26-00119",
+      "companyId": "220257",
+      "name": "이윤영",
+      "companyName": "등불카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220257&dealerId=SW26-00119"
+    },
+    {
+      "id": "SW26-00063",
+      "companyId": "220257",
+      "name": "조대식",
+      "companyName": "등불카",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220257&dealerId=SW26-00063"
+    },
+    {
+      "id": "SW25-00211",
+      "companyId": "220262",
+      "name": "강병준",
+      "companyName": "롯데렌탈 주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241107/220262-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220262&dealerId=SW25-00211"
+    },
+    {
+      "id": "SW25-00214",
+      "companyId": "220262",
+      "name": "김동수",
+      "companyName": "롯데렌탈 주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241107/220262-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220262&dealerId=SW25-00214"
+    },
+    {
+      "id": "SW25-00045",
+      "companyId": "220262",
+      "name": "김환민",
+      "companyName": "롯데렌탈 주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250305/220262-10.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220262&dealerId=SW25-00045"
+    },
+    {
+      "id": "SW26-00074",
+      "companyId": "220262",
+      "name": "이승윤",
+      "companyName": "롯데렌탈 주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260429/220262-14.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220262&dealerId=SW26-00074"
+    },
+    {
+      "id": "SW26-00056",
+      "companyId": "220262",
+      "name": "이원준",
+      "companyName": "롯데렌탈 주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260415/220262-13.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220262&dealerId=SW26-00056"
+    },
+    {
+      "id": "SW25-00126",
+      "companyId": "220262",
+      "name": "이정기",
+      "companyName": "롯데렌탈 주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251002/220262-12.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220262&dealerId=SW25-00126"
+    },
+    {
+      "id": "SW25-00160",
+      "companyId": "220262",
+      "name": "조영미",
+      "companyName": "롯데렌탈 주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241107/220262-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220262&dealerId=SW25-00160"
+    },
+    {
+      "id": "SW25-00213",
+      "companyId": "220262",
+      "name": "지상호",
+      "companyName": "롯데렌탈 주식회사",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241107/220262-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220262&dealerId=SW25-00213"
+    },
+    {
+      "id": "SW25-00134",
+      "companyId": "220246",
+      "name": "권점순",
+      "companyName": "세이프중고차(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230116/220246-3.hum",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220246&dealerId=SW25-00134"
+    },
+    {
+      "id": "SW25-00064",
+      "companyId": "220246",
+      "name": "김호균",
+      "companyName": "세이프중고차(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230105/220246-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220246&dealerId=SW25-00064"
+    },
+    {
+      "id": "SW26-00142",
+      "companyId": "220246",
+      "name": "안준호",
+      "companyName": "세이프중고차(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260922/220246-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220246&dealerId=SW26-00142"
+    },
+    {
+      "id": "SW25-00088",
+      "companyId": "220246",
+      "name": "정윤환",
+      "companyName": "세이프중고차(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230126/220246-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220246&dealerId=SW25-00088"
+    },
+    {
+      "id": "SW25-00063",
+      "companyId": "220246",
+      "name": "조성건",
+      "companyName": "세이프중고차(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230116/220246-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220246&dealerId=SW25-00063"
+    },
+    {
+      "id": "SW25-00135",
+      "companyId": "220260",
+      "name": "권점순",
+      "companyName": "아이원카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220260&dealerId=SW25-00135"
+    },
+    {
+      "id": "SW26-00029",
+      "companyId": "220260",
+      "name": "최원일",
+      "companyName": "아이원카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240715/220260-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220260&dealerId=SW26-00029"
+    },
+    {
+      "id": "SW24-00037",
+      "companyId": "220245",
+      "name": "김민성",
+      "companyName": "엔카닷컴(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240111/220245-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220245&dealerId=SW24-00037"
+    },
+    {
+      "id": "SW24-00035",
+      "companyId": "220245",
+      "name": "김선부",
+      "companyName": "엔카닷컴(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240111/220245-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220245&dealerId=SW24-00035"
+    },
+    {
+      "id": "SW22-00169",
+      "companyId": "220245",
+      "name": "박찬서",
+      "companyName": "엔카닷컴(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20221207/220245-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220245&dealerId=SW22-00169"
+    },
+    {
+      "id": "SW24-00038",
+      "companyId": "220245",
+      "name": "신재훈",
+      "companyName": "엔카닷컴(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240111/220245-10.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220245&dealerId=SW24-00038"
+    },
+    {
+      "id": "SW22-00172",
+      "companyId": "220245",
+      "name": "이강성",
+      "companyName": "엔카닷컴(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20221207/220245-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220245&dealerId=SW22-00172"
+    },
+    {
+      "id": "SW24-00036",
+      "companyId": "220245",
+      "name": "차현미",
+      "companyName": "엔카닷컴(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240111/220245-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220245&dealerId=SW24-00036"
+    },
+    {
+      "id": "SW22-00170",
+      "companyId": "220245",
+      "name": "천재언",
+      "companyName": "엔카닷컴(주)",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20221207/220245-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220245&dealerId=SW22-00170"
+    },
+    {
+      "id": "SW23-00048",
+      "companyId": "220247",
+      "name": "김우주",
+      "companyName": "원모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230216/220247-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220247&dealerId=SW23-00048"
+    },
+    {
+      "id": "SW24-00205",
+      "companyId": "220247",
+      "name": "김학민",
+      "companyName": "원모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230802/220247-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220247&dealerId=SW24-00205"
+    },
+    {
+      "id": "SW23-00047",
+      "companyId": "220247",
+      "name": "문정순",
+      "companyName": "원모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230216/220247-2.hum",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220247&dealerId=SW23-00047"
+    },
+    {
+      "id": "SW24-00207",
+      "companyId": "220247",
+      "name": "이수광",
+      "companyName": "원모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230216/220247-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220247&dealerId=SW24-00207"
+    },
+    {
+      "id": "SW24-00206",
+      "companyId": "220247",
+      "name": "임찬우",
+      "companyName": "원모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230216/220247-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220247&dealerId=SW24-00206"
+    },
+    {
+      "id": "SW26-00006",
+      "companyId": "220241",
+      "name": "김신욱",
+      "companyName": "주식회사 리버모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260105/220241-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220241&dealerId=SW26-00006"
+    },
+    {
+      "id": "SW25-00230",
+      "companyId": "220241",
+      "name": "서현미",
+      "companyName": "주식회사 리버모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240122/220241-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220241&dealerId=SW25-00230"
+    },
+    {
+      "id": "SW25-00127",
+      "companyId": "220241",
+      "name": "윤종훈",
+      "companyName": "주식회사 리버모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251022/220241-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220241&dealerId=SW25-00127"
+    },
+    {
+      "id": "SW26-00050",
+      "companyId": "220241",
+      "name": "임흥묵",
+      "companyName": "주식회사 리버모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260320/220241-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220241&dealerId=SW26-00050"
+    },
+    {
+      "id": "SW25-00231",
+      "companyId": "220241",
+      "name": "장완일",
+      "companyName": "주식회사 리버모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251231/220241-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220241&dealerId=SW25-00231"
+    },
+    {
+      "id": "SW24-00211",
+      "companyId": "220241",
+      "name": "한영주",
+      "companyName": "주식회사 리버모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220241&dealerId=SW24-00211"
+    },
+    {
+      "id": "SW24-00214",
+      "companyId": "220235",
+      "name": "권시언",
+      "companyName": "주식회사 미스터픽",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230308/220235-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220235&dealerId=SW24-00214"
+    },
+    {
+      "id": "SW24-00216",
+      "companyId": "220235",
+      "name": "김민성",
+      "companyName": "주식회사 미스터픽",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230308/220235-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220235&dealerId=SW24-00216"
+    },
+    {
+      "id": "SW24-00215",
+      "companyId": "220235",
+      "name": "김태형",
+      "companyName": "주식회사 미스터픽",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230308/220235-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220235&dealerId=SW24-00215"
+    },
+    {
+      "id": "SW24-00213",
+      "companyId": "220235",
+      "name": "송상훈",
+      "companyName": "주식회사 미스터픽",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20211116/220235-2.peg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220235&dealerId=SW24-00213"
+    },
+    {
+      "id": "SW24-00212",
+      "companyId": "220235",
+      "name": "최철훈",
+      "companyName": "주식회사 미스터픽",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20211116/220235-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220235&dealerId=SW24-00212"
+    },
+    {
+      "id": "SW24-00210",
+      "companyId": "220235",
+      "name": "한영주",
+      "companyName": "주식회사 미스터픽",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220235&dealerId=SW24-00210"
+    },
+    {
+      "id": "SW25-00041",
+      "companyId": "220221",
+      "name": "권기현",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250226/220221-14.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW25-00041"
+    },
+    {
+      "id": "SW25-00133",
+      "companyId": "220221",
+      "name": "권점순",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210506/220221-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW25-00133"
+    },
+    {
+      "id": "SW24-00237",
+      "companyId": "220221",
+      "name": "권필하",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20210514/220221-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW24-00237"
+    },
+    {
+      "id": "SW26-00089",
+      "companyId": "220221",
+      "name": "김수현",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260528/220221-23.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW26-00089"
+    },
+    {
+      "id": "SW26-00015",
+      "companyId": "220221",
+      "name": "김영회",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20220802/220221-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW26-00015"
+    },
+    {
+      "id": "SW24-00236",
+      "companyId": "220221",
+      "name": "윤수동",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230726/220221-11.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW24-00236"
+    },
+    {
+      "id": "SW25-00029",
+      "companyId": "220221",
+      "name": "이규상",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250213/220221-13.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW25-00029"
+    },
+    {
+      "id": "SW25-00053",
+      "companyId": "220221",
+      "name": "이응환",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250326/220221-17.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW25-00053"
+    },
+    {
+      "id": "SW26-00016",
+      "companyId": "220221",
+      "name": "이인형",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20211229/220221-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW26-00016"
+    },
+    {
+      "id": "SW25-00043",
+      "companyId": "220221",
+      "name": "이정경",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250228/220221-15.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW25-00043"
+    },
+    {
+      "id": "SW26-00032",
+      "companyId": "220221",
+      "name": "이태양",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260123/220221-21.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW26-00032"
+    },
+    {
+      "id": "SW24-00235",
+      "companyId": "220221",
+      "name": "이혜진",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230802/220221-12.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW24-00235"
+    },
+    {
+      "id": "SW26-00031",
+      "companyId": "220221",
+      "name": "전영길",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260123/220221-22.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW26-00031"
+    },
+    {
+      "id": "SW26-00017",
+      "companyId": "220221",
+      "name": "최영준",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20201012/220221-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW26-00017"
+    },
+    {
+      "id": "SW25-00078",
+      "companyId": "220221",
+      "name": "한신원",
+      "companyName": "주식회사 비케이투모터스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250508/220221-19.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220221&dealerId=SW25-00078"
+    },
+    {
+      "id": "SW25-00085",
+      "companyId": "220265",
+      "name": "Kogai Galina",
+      "companyName": "주식회사 아시아글림카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250528/220265-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220265&dealerId=SW25-00085"
+    },
+    {
+      "id": "SW24-00239",
+      "companyId": "220216",
+      "name": "김준홍",
+      "companyName": "주식회사 에스알카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20230906/220216-15.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220216&dealerId=SW24-00239"
+    },
+    {
+      "id": "SW26-00020",
+      "companyId": "220216",
+      "name": "김철민",
+      "companyName": "주식회사 에스알카",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20191209/220216-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220216&dealerId=SW26-00020"
+    },
+    {
+      "id": "SW26-00019",
+      "companyId": "220216",
+      "name": "김홍중",
+      "companyName": "주식회사 에스알카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20191204/220216-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220216&dealerId=SW26-00019"
+    },
+    {
+      "id": "SW25-00065",
+      "companyId": "220216",
+      "name": "민용기",
+      "companyName": "주식회사 에스알카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250423/220216-18.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220216&dealerId=SW25-00065"
+    },
+    {
+      "id": "SW26-00018",
+      "companyId": "220216",
+      "name": "이경희",
+      "companyName": "주식회사 에스알카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20191216/220216-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220216&dealerId=SW26-00018"
+    },
+    {
+      "id": "SW26-00009",
+      "companyId": "220216",
+      "name": "이성철",
+      "companyName": "주식회사 에스알카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220216&dealerId=SW26-00009"
+    },
+    {
+      "id": "SW24-00060",
+      "companyId": "220216",
+      "name": "정주몽",
+      "companyName": "주식회사 에스알카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240129/220216-16.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220216&dealerId=SW24-00060"
+    },
+    {
+      "id": "SW24-00240",
+      "companyId": "220216",
+      "name": "최낙선",
+      "companyName": "주식회사 에스알카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241227/220216-2.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220216&dealerId=SW24-00240"
+    },
+    {
+      "id": "SW24-00180",
+      "companyId": "220220",
+      "name": "강윤선",
+      "companyName": "주식회사 오토플래닛",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241205/220220-15.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220220&dealerId=SW24-00180"
+    },
+    {
+      "id": "SW25-00136",
+      "companyId": "220220",
+      "name": "권점순",
+      "companyName": "주식회사 오토플래닛",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200609/220220-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220220&dealerId=SW25-00136"
+    },
+    {
+      "id": "SW25-00090",
+      "companyId": "220220",
+      "name": "김태화",
+      "companyName": "주식회사 오토플래닛",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250616/220220-17.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220220&dealerId=SW25-00090"
+    },
+    {
+      "id": "SW26-00139",
+      "companyId": "220220",
+      "name": "이선혜",
+      "companyName": "주식회사 오토플래닛",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260911/220220-19.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220220&dealerId=SW26-00139"
+    },
+    {
+      "id": "SW25-00162",
+      "companyId": "220220",
+      "name": "정환수",
+      "companyName": "주식회사 오토플래닛",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240502/220220-13.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220220&dealerId=SW25-00162"
+    },
+    {
+      "id": "SW26-00030",
+      "companyId": "220220",
+      "name": "최주아",
+      "companyName": "주식회사 오토플래닛",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260123/220220-18.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220220&dealerId=SW26-00030"
+    },
+    {
+      "id": "SW25-00047",
+      "companyId": "220191",
+      "name": "권태호",
+      "companyName": "주식회사 젠틀카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250307/220191-15.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220191&dealerId=SW25-00047"
+    },
+    {
+      "id": "SW25-00002",
+      "companyId": "220191",
+      "name": "김두호",
+      "companyName": "주식회사 젠틀카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20171121/220191-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220191&dealerId=SW25-00002"
+    },
+    {
+      "id": "SW25-00046",
+      "companyId": "220191",
+      "name": "박대규",
+      "companyName": "주식회사 젠틀카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250307/220191-14.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220191&dealerId=SW25-00046"
+    },
+    {
+      "id": "SW25-00168",
+      "companyId": "220191",
+      "name": "신응철",
+      "companyName": "주식회사 젠틀카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200723/220191-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220191&dealerId=SW25-00168"
+    },
+    {
+      "id": "SW26-00012",
+      "companyId": "220191",
+      "name": "이성철",
+      "companyName": "주식회사 젠틀카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20171024/220191-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220191&dealerId=SW26-00012"
+    },
+    {
+      "id": "SW25-00004",
+      "companyId": "220191",
+      "name": "이정민",
+      "companyName": "주식회사 젠틀카",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20171117/220191-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220191&dealerId=SW25-00004"
+    },
+    {
+      "id": "SW25-00006",
+      "companyId": "220191",
+      "name": "이회찬",
+      "companyName": "주식회사 젠틀카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20171121/220191-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220191&dealerId=SW25-00006"
+    },
+    {
+      "id": "SW25-00005",
+      "companyId": "220191",
+      "name": "최영환",
+      "companyName": "주식회사 젠틀카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20171114/220191-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220191&dealerId=SW25-00005"
+    },
+    {
+      "id": "SW24-00167",
+      "companyId": "220252",
+      "name": "오일성",
+      "companyName": "주식회사 카와라",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20241118/220252-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220252&dealerId=SW24-00167"
+    },
+    {
+      "id": "SW25-00155",
+      "companyId": "220252",
+      "name": "이현미",
+      "companyName": "주식회사 카와라",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20240328/220252-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220252&dealerId=SW25-00155"
+    },
+    {
+      "id": "SW26-00083",
+      "companyId": "220270",
+      "name": "김수연",
+      "companyName": "주식회사 카플러스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260514/220270-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220270&dealerId=SW26-00083"
+    },
+    {
+      "id": "SW25-00154",
+      "companyId": "220270",
+      "name": "김신욱",
+      "companyName": "주식회사 카플러스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251105/220270-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220270&dealerId=SW25-00154"
+    },
+    {
+      "id": "SW26-00082",
+      "companyId": "220270",
+      "name": "김혜영",
+      "companyName": "주식회사 카플러스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260514/220270-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220270&dealerId=SW26-00082"
+    },
+    {
+      "id": "SW25-00121",
+      "companyId": "220270",
+      "name": "박대웅",
+      "companyName": "주식회사 카플러스",
+      "inventoryCount": 6,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250923/220270-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220270&dealerId=SW25-00121"
+    },
+    {
+      "id": "SW25-00119",
+      "companyId": "220270",
+      "name": "유원선",
+      "companyName": "주식회사 카플러스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250923/220270-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220270&dealerId=SW25-00119"
+    },
+    {
+      "id": "SW25-00122",
+      "companyId": "220270",
+      "name": "이승우",
+      "companyName": "주식회사 카플러스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250923/220270-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220270&dealerId=SW25-00122"
+    },
+    {
+      "id": "SW26-00133",
+      "companyId": "220270",
+      "name": "장성훈",
+      "companyName": "주식회사 카플러스",
+      "inventoryCount": 3,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260907/220270-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220270&dealerId=SW26-00133"
+    },
+    {
+      "id": "SW26-00134",
+      "companyId": "220270",
+      "name": "정인원",
+      "companyName": "주식회사 카플러스",
+      "inventoryCount": 1,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260907/220270-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220270&dealerId=SW26-00134"
+    },
+    {
+      "id": "SW25-00132",
+      "companyId": "220272",
+      "name": "김영성",
+      "companyName": "주식회사 캐낸다",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251029/220272-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220272&dealerId=SW25-00132"
+    },
+    {
+      "id": "SW25-00131",
+      "companyId": "220272",
+      "name": "이종호",
+      "companyName": "주식회사 캐낸다",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20251029/220272-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220272&dealerId=SW25-00131"
+    },
+    {
+      "id": "SW25-00069",
+      "companyId": "220267",
+      "name": "고진석",
+      "companyName": "주식회사 하렌카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250425/220267-1.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220267&dealerId=SW25-00069"
+    },
+    {
+      "id": "SW26-00091",
+      "companyId": "220267",
+      "name": "문희상",
+      "companyName": "주식회사 하렌카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260528/220267-13.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220267&dealerId=SW26-00091"
+    },
+    {
+      "id": "SW25-00102",
+      "companyId": "220267",
+      "name": "박정훈",
+      "companyName": "주식회사 하렌카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250704/220267-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220267&dealerId=SW25-00102"
+    },
+    {
+      "id": "SW25-00095",
+      "companyId": "220267",
+      "name": "박진기",
+      "companyName": "주식회사 하렌카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250630/220267-8.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220267&dealerId=SW25-00095"
+    },
+    {
+      "id": "SW26-00140",
+      "companyId": "220267",
+      "name": "서광일",
+      "companyName": "주식회사 하렌카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260105/220267-10.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220267&dealerId=SW26-00140"
+    },
+    {
+      "id": "SW26-00040",
+      "companyId": "220267",
+      "name": "전상훈",
+      "companyName": "주식회사 하렌카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260227/220267-11.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220267&dealerId=SW26-00040"
+    },
+    {
+      "id": "SW25-00074",
+      "companyId": "220267",
+      "name": "전진호",
+      "companyName": "주식회사 하렌카",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250508/220267-3.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220267&dealerId=SW25-00074"
+    },
+    {
+      "id": "SW26-00047",
+      "companyId": "220267",
+      "name": "한동엽",
+      "companyName": "주식회사 하렌카",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260324/220267-12.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220267&dealerId=SW26-00047"
+    },
+    {
+      "id": "SW24-00177",
+      "companyId": "220211",
+      "name": "김명구",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190726/220211-4.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00177"
+    },
+    {
+      "id": "SW24-00170",
+      "companyId": "220211",
+      "name": "김성균",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 7,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190729/220211-14.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00170"
+    },
+    {
+      "id": "SW24-00176",
+      "companyId": "220211",
+      "name": "김종한",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20201224/220211-26.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00176"
+    },
+    {
+      "id": "SW25-00025",
+      "companyId": "220211",
+      "name": "박세혁",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190726/220211-9.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW25-00025"
+    },
+    {
+      "id": "SW25-00169",
+      "companyId": "220211",
+      "name": "박은규",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20220727/220211-31.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW25-00169"
+    },
+    {
+      "id": "SW24-00261",
+      "companyId": "220211",
+      "name": "박일효",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 16,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190729/220211-16.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00261"
+    },
+    {
+      "id": "SW24-00233",
+      "companyId": "220211",
+      "name": "신종국",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190726/220211-5.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00233"
+    },
+    {
+      "id": "SW25-00051",
+      "companyId": "220211",
+      "name": "오현우",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20250317/220211-33.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW25-00051"
+    },
+    {
+      "id": "SW24-00179",
+      "companyId": "220211",
+      "name": "유대근",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20211103/220211-29.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00179"
+    },
+    {
+      "id": "SW24-00262",
+      "companyId": "220211",
+      "name": "유웅선",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190729/220211-17.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00262"
+    },
+    {
+      "id": "SW24-00178",
+      "companyId": "220211",
+      "name": "이강혁",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190905/220211-22.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00178"
+    },
+    {
+      "id": "SW24-00232",
+      "companyId": "220211",
+      "name": "전창식",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190726/220211-7.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00232"
+    },
+    {
+      "id": "SW26-00102",
+      "companyId": "220211",
+      "name": "정문성",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20260713/220211-35.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW26-00102"
+    },
+    {
+      "id": "SW24-00204",
+      "companyId": "220211",
+      "name": "조경희",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20200706/220211-25.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00204"
+    },
+    {
+      "id": "SW25-00210",
+      "companyId": "220211",
+      "name": "한홍휘",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 0,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190726/220211-6.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW25-00210"
+    },
+    {
+      "id": "SW24-00263",
+      "companyId": "220211",
+      "name": "홍은표",
+      "companyName": "주식회사뉴케이스페이스",
+      "inventoryCount": 2,
+      "profileImageUrl": "http://em.cha894.com/data/__dealer/20190729/220211-18.jpg",
+      "sourceUrl": "https://cha894.com/car/car_list_sangsa.html?sangsaFlag=Y&sangsaKey=220211&dealerId=SW24-00263"
+    }
+  ]
+}
